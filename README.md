@@ -10,4 +10,5 @@ analyse and solution:
         monitor and record sound info.  
 
 dev route:  
-![软件版本升级2505272046](https://github.com/user-attachments/assets/45338bbf-0100-4fe1-9392-5cf482263077)
+
+![(en)软件版本升级2505280059](https://github.com/user-attachments/assets/e20913c8-29d4-4bfc-adf3-721eaf1801b6)

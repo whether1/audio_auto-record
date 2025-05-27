@@ -11,4 +11,4 @@ analyse and solution:
 
 dev route:  
 sry:want to translate english,but lazy,but want translate by myself.
-![(en)软件版本升级2505280059](https://github.com/user-attachments/assets/e20913c8-29d4-4bfc-adf3-721eaf1801b6)
+![(en)version](https://github.com/user-attachments/assets/df3d0091-f52d-412f-8d00-4d6f87fa2936)

@@ -1,5 +1,5 @@
 code based on chatgpt (about recording  audio/wave-info for android) <br>
-  
+
 come across problem:<br>
     1.u'll never know yr mom anywhen crazy mistake<br>
     2.fail to hear/understand other's saying clearly<br>

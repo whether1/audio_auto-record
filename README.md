@@ -11,4 +11,4 @@ analyse and solution:
 
 dev route:  
 sry:want to translate english,but lazy,but want translate by myself.
-![(en)version](https://github.com/user-attachments/assets/df3d0091-f52d-412f-8d00-4d6f87fa2936)
+![(en)version-第 1 页 drawio](https://github.com/user-attachments/assets/44398c1c-cffe-4144-af53-3678e8aacb7a)

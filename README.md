@@ -9,3 +9,5 @@ come across problem:<br>
 analyse and solution:  
         monitor and record sound info.  
 
+dev route:  
+![Uploading 软件版本升级2505272046.png…]()

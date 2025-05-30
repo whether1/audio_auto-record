@@ -11,7 +11,8 @@ analyse and solution:
 
 dev route:  
 sry:want to translate english,but lazy,but want translate by myself.  
+by the way:shit https://download.csdn.net/ charge for down.
 
 ![(en)version-第 2 页](https://github.com/user-attachments/assets/a9acb00d-6e53-429f-818a-e06d8103b7e8)
 
-![(en)version-第 1 页 drawio png2505301418](https://github.com/user-attachments/assets/7222950f-9e7a-4084-8a85-3e05f7a3add8)
+![(en)version-第 1 页 drawio png2505301424](https://github.com/user-attachments/assets/5ef1985a-a618-4a24-a7f0-bdbd62f735ba)

@@ -9,7 +9,7 @@ come across problem:<br>
 analyse and solution:  
         monitor and record sound info.  
 
-timeline:
+timeline:  
 sry:want to translate english,but lazy,but want translate by myself.  
 btw:shit csdn charge for download,shit ~~china~~ india and shit real estate,shit Stock finance,shit macro-control by governor———tools using depend on who and how peope use.  
 

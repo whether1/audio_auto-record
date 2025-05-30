@@ -14,4 +14,4 @@ sry:want to translate english,but lazy,but want translate by myself.
 
 ![(en)version-第 2 页](https://github.com/user-attachments/assets/a9acb00d-6e53-429f-818a-e06d8103b7e8)
 
-![(en)version-第 1 页 drawio](https://github.com/user-attachments/assets/44398c1c-cffe-4144-af53-3678e8aacb7a)
+![(en)version-第 1 页 drawio png2505301418](https://github.com/user-attachments/assets/7222950f-9e7a-4084-8a85-3e05f7a3add8)

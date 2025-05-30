@@ -1,7 +1,7 @@
 code based on chatgpt (about recording  audio/wave-info on android) <br>
 
 come across problem:<br>
-		1.u'll never know yr mom anywhen crazy mistake<br>
+		1.we'll never know our mom anywhen crazy mistake<br>
    		2.fail to hear/understand other's saying clearly and immediately<br>
 		3.monitor my own saying and doing<br>
 		4.  

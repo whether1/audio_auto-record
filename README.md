@@ -4,7 +4,7 @@ come across problem:<br>
 		1.we'll never know our mom anywhen crazy mistake<br>
    		2.fail to hear/understand other's saying clearly and immediately<br>
 		3.monitor my own saying and doing<br>
-		4.  
+		4.maybe evidence for verbal deception or other not good even illegal behavior
 
 analyse and solution:  
         monitor and record sound info.  
